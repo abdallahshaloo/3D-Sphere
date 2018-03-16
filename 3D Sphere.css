@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#000, #222);
+}
+
+canvas {
+    margin: 10em 0 0;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
